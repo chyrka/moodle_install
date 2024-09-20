@@ -1,0 +1,3 @@
+Moodle 4.x Installation Script for AlmaLinux 9
+
+This script automates the setup of Moodle 4.x on AlmaLinux 9, including the installation of essential components like Nginx, MariaDB, and PHP-FPM. It streamlines the process by checking system requirements, configuring the web server and database, and cloning the latest Moodle package from the official repository. With clear prompts and real-time progress updates, this script makes it easy for users of all skill levels to quickly deploy a fully functional Moodle environment, enabling educators to focus on creating engaging learning experiences.
